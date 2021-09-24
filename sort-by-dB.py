@@ -17,7 +17,7 @@ for i in slices:
 
 
 
-# Input audio file to be sliced
+
 
 
 ''' 
